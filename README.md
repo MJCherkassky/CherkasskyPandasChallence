@@ -70,7 +70,6 @@ This project attempts to analyze the district-wide standardized test results. I 
 
 ### District Summary
 
-* Create a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
@@ -82,7 +81,6 @@ This project attempts to analyze the district-wide standardized test results. I 
 
 ### School Summary
 
-* Create an overview table that summarizes key metrics about each school, including:
   * School Name
   * School Type
   * Total Students
@@ -96,7 +94,6 @@ This project attempts to analyze the district-wide standardized test results. I 
 
 ### Top Performing Schools (By Passing Rate)
 
-* Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
   * School Type
   * Total Students
@@ -122,7 +119,7 @@ This project attempts to analyze the district-wide standardized test results. I 
 
 ### Scores by School Spending
 
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+* Create a table that breaks down school performances based on average Spending Ranges (Per Student)
   * Average Math Score
   * Average Reading Score
   * % Passing Math
