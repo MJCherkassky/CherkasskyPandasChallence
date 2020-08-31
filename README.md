@@ -1,7 +1,5 @@
 # Pandas, Pandas, Pandas
 
-## Background
-
 ## Heroes of Pymoli
 
 For this project, I am analyzing customer trends on a mobile-based game operating on a "Freemium" model. It is free to play, but there are many in-app purchases possible for enhancing the gameplay experience. I am hoping to generate a report that provides meaningful insights on the game's users.
